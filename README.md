@@ -1,4 +1,5 @@
 # Naira CLI
+![tests](https://github.com/osenidaniel/Naira-CLI/actions/workflows/tests.yml/badge.svg)
 
 A command-line tool I built to send money from my Wise account in the UK to Nigerian bank accounts and OPay, and to alert me on Telegram when the GBP→NGN rate moves past levels I care about.
 
