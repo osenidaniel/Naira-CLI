@@ -1,0 +1,19 @@
+# Local data and secrets. The API token lives in ~/.naira_cli, never in this repo.
+.naira_cli/
+config.json
+*.db
+*.sqlite
+*.csv
+*.log
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+*.zip
